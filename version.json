@@ -1,0 +1,7 @@
+{
+  "version": "1.7.0",
+  "url": "https://github.com/TU_USUARIO/sismic-releases/releases/download/v1.7.0/Sismic-1.7.0.zip",
+  "sha256": "8BF05A1E528535AB04BA77EC49E97C5547B4DF8B191ED70E987EF98167D67D5A",
+  "obligatoria": false,
+  "notas": "Correcciones en abonos, enganches e inventario."
+}
