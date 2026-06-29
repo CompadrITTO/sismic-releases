@@ -1,7 +1,7 @@
 {
-    "version":  "1.7.0",
-    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_1.0.0/Sismic-1.7.0.zip",
-    "sha256":  "723F330A94D1FFFC3FB2C9F145176D838640E33C6419DB918CD39845E451330F",
+    "version":  "1.7.1",
+    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_1.7.1/Sismic-1.7.1.zip",
+    "sha256":  "3FA835EBBD15A0F97FC6ADC351D7F7AA52DCFF748F2BA905F46187EFB5E8EECB",
     "obligatoria":  false,
-    "notas":  "Actualizador automatico, enganches, abonos e inventario."
+    "notas":  "Corrección de enganches en cortes"
 }
