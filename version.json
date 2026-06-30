@@ -1,7 +1,7 @@
 {
-    "version":  "1.7.2",
-    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_1.7.2/Sismic-1.7.2.zip",
-    "sha256":  "1831A57A37DFB26CB1866BF2E4D29FCC6505154545DABEB8B493958936A4709D",
+    "version":  "1.7.3",
+    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_1.7.3/Sismic-1.7.3.zip",
+    "sha256":  "FA3D86447EA8655B1779BE0AC98AC486CE05CF596F474920A866E28A680C1534",
     "obligatoria":  false,
-    "notas":  "Corrección de enganches en cortes"
+    "notas":  "Corrección"
 }
