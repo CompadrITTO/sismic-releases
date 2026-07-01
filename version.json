@@ -1,7 +1,7 @@
 {
-    "version":  "1.7.4",
-    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_1.7.4/Sismic-1.7.4.zip",
-    "sha256":  "6C6BAEFBC9012B9599BB7578EFB16C7D3D9DFF66684CC3E757C4EA17949B816D",
+    "version":  "1.8.1",
+    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_1.8.1/Sismic-1.8.1.zip",
+    "sha256":  "21389A25FA979565AF3852CB1E0921A66047E7F645D4138B736C64A09EDA588B",
     "obligatoria":  false,
-    "notas":  "Reconstruccion SAE"
+    "notas":  "Reconstruccion SAE y api movil"
 }
