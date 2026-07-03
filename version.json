@@ -1,7 +1,7 @@
 {
-    "version":  "1.8.2",
-    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_1.8.2/Sismic-1.8.2.zip",
-    "sha256":  "195DFBF0E0836D61CC12C80EB29D7A9C99BB4BB92AC182A026B22FDF82EE4D09",
+    "version":  "1.8.3",
+    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_1.8.3/Sismic-1.8.3.zip",
+    "sha256":  "E78091ABCBFABD1E0B0C0F1595EBE9788A98B398D720FEA3035E2C858759F7EF",
     "obligatoria":  false,
     "notas":  "api movil: Cobrador, gastos y multi ruta"
 }
