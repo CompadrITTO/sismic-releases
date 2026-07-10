@@ -1,7 +1,7 @@
 {
-    "version":  "1.9.3",
-    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_1.9.3/Sismic-1.9.3.zip",
-    "sha256":  "3F9824CA60800266BFDBD589B3278B1293817BA25EDDE951592B766322AC7AA0",
+    "version":  "1.9.4",
+    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_1.9.4/Sismic-1.9.4.zip",
+    "sha256":  "AE310363409210A60EAE443B6AC667C80246B01F307D73990E9329FED1D3E0BA",
     "obligatoria":  false,
     "notas":  "devoluciones y cuadre de movil"
 }
