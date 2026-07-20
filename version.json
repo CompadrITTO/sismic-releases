@@ -1,7 +1,7 @@
 {
-    "version":  "1.9.72",
-    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_1.9.72/Sismic-1.9.72.zip",
-    "sha256":  "990CAD2502EA24EA42A9932E9EDC190DD33C0C732AA8A4823F4DF7E5698F73FD",
+    "version":  "1.9.73",
+    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_1.9.73/Sismic-1.9.73.zip",
+    "sha256":  "3D722E4C6DB74A7C21481E9CFFF62F2B7E7FA3391B43DD5A26A6D1519EFC54F3",
     "obligatoria":  false,
-    "notas":  "error de api"
+    "notas":  "revision"
 }
