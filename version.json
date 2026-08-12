@@ -1,7 +1,7 @@
 {
-    "version":  "1.9.94",
-    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_1.9.94/Sismic-1.9.94.zip",
-    "sha256":  "A01574DA24BA2340B5360204A30DE7872D7290DC6D53607967DBE840CDC53BA1",
-    "obligatoria":  false,
-    "notas":  "revision"
+    "version": "1.9.95",
+    "url": "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_1.9.95/Sismic-1.9.95.zip",
+    "sha256": "B3AF0C0A808E015BB094BDFF543531E41CBD0675A31FD300DB0405E1AEB3F7E1",
+    "obligatoria": false,
+    "notas": "Rediseño del conteo de inventario en el celular + correcciones de inventario y nómina"
 }
