@@ -1,7 +1,7 @@
 {
-    "version":  "1.9.97",
-    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_1.9.97/Sismic-1.9.97.zip",
-    "sha256":  "B3282D2EAD0C1B686E7FDD0644CC4AD8FE4E533D90F3E4DB3C1A1971D213FD65",
+    "version":  "2.0.01",
+    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_2.0.01/Sismic-2.0.01.zip",
+    "sha256":  "900137987CCC509D899FD1E2556CF08E6CC7F4FC018242714D34EB2EE7CDF0FA",
     "obligatoria":  false,
-    "notas":  "revision"
+    "notas":  "texto que va a ver el cobrador/oficina en el aviso de actualización"
 }
