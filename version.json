@@ -1,7 +1,7 @@
 {
-    "version":  "2.0.02",
-    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_2.0.02/Sismic-2.0.02.zip",
-    "sha256":  "BD415B67B1209FB656D51328EDBAA6686F45E160F9F67D213BB1C21A82343990",
+    "version":  "2.0.03",
+    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_2.0.03/Sismic-2.0.03.zip",
+    "sha256":  "594C68CAA2326329BAE4534864FA7E5F0CF301592D1AD60F3E67BB49A7356081",
     "obligatoria":  false,
-    "notas":  "compras, precio y etiquetas"
+    "notas":  "Imagenes de producto, zona local/foraneo automatica en venta movil, y aviso de cliente apto para MUEBLE."
 }
