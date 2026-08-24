@@ -1,7 +1,7 @@
 {
-    "version":  "2.0.03",
-    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_2.0.03/Sismic-2.0.03.zip",
-    "sha256":  "594C68CAA2326329BAE4534864FA7E5F0CF301592D1AD60F3E67BB49A7356081",
+    "version":  "2.0.04",
+    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_2.0.04/Sismic-2.0.04.zip",
+    "sha256":  "A2373A011172A1EA88E90994510DE679FFC9B44E086DBAEAA3DD36CB8DA93A17",
     "obligatoria":  false,
-    "notas":  "Imagenes de producto, zona local/foraneo automatica en venta movil, y aviso de cliente apto para MUEBLE."
+    "notas":  "Prepedido en menu lateral movil; clave de cliente editable por ADMIN; tarjetas activas y %cobro/%visitas en sincronizacion movil; editar nombre de producto; resumen de movimientos en cortes; correccion de rutas duplicadas/ocultas y nombre de cobrador en Reportes Avanzados."
 }
