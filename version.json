@@ -1,7 +1,7 @@
 {
-    "version":  "2.0.04",
-    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_2.0.04/Sismic-2.0.04.zip",
-    "sha256":  "A2373A011172A1EA88E90994510DE679FFC9B44E086DBAEAA3DD36CB8DA93A17",
+    "version":  "2.0.05",
+    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_2.0.05/Sismic-2.0.05.zip",
+    "sha256":  "DD62625A30BB1918C0B58E74D611BDED3D00714B3D1AB017CA17C30E42D9B218",
     "obligatoria":  false,
-    "notas":  "Prepedido en menu lateral movil; clave de cliente editable por ADMIN; tarjetas activas y %cobro/%visitas en sincronizacion movil; editar nombre de producto; resumen de movimientos en cortes; correccion de rutas duplicadas/ocultas y nombre de cobrador en Reportes Avanzados."
+    "notas":  "compras, precio y etiquetas"
 }
