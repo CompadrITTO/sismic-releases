@@ -1,7 +1,7 @@
 {
-    "version":  "2.0.05",
-    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_2.0.05/Sismic-2.0.05.zip",
-    "sha256":  "DD62625A30BB1918C0B58E74D611BDED3D00714B3D1AB017CA17C30E42D9B218",
+    "version":  "2.0.06",
+    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_2.0.06/Sismic-2.0.06.zip",
+    "sha256":  "3CF0A1405094A2A5FAF85DF012D8BDC467DBA34652EE44CAF0C2F0D52BB6A35B",
     "obligatoria":  false,
     "notas":  "compras, precio y etiquetas"
 }
