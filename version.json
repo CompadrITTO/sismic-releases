@@ -1,7 +1,7 @@
 {
-    "version":  "2.0.09",
-    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_2.0.09/Sismic-2.0.09.zip",
-    "sha256":  "F8684FFCEFC26E9D7A8AA440A02F9851D9A64DEC01F6D5C2F7B25A8C6969C011",
+    "version":  "2.0.10",
+    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_2.0.10/Sismic-2.0.10.zip",
+    "sha256":  "28EEA06065129D9835FDE1A21187A66F4AD014AEEF82391296866799DF07D9C9",
     "obligatoria":  false,
     "notas":  "dominio y vps"
 }
