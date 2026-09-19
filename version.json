@@ -1,7 +1,7 @@
 {
-    "version":  "2.0.21",
-    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_2.0.21/Sismic-2.0.21.zip",
-    "sha256":  "039D41E039145FF71A34183505AEA2B972DAE3B1D4D69E1CA256A2A87FB28CDC",
+    "version":  "2.0.22",
+    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_2.0.22/Sismic-2.0.22.zip",
+    "sha256":  "3F2035B8362262C7C6C7099FA4F633B0DE850C28C914B35EC33F5D4737AD2C0C",
     "obligatoria":  false,
     "notas":  "TABLERO DE EFEVTIVO Y REPORT AVAN"
 }
