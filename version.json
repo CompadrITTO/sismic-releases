@@ -1,7 +1,7 @@
 {
-    "version":  "2.0.49",
-    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_2.0.49/Sismic-2.0.49.zip",
-    "sha256":  "EA58C34996A301197A4D627EE5CD142FB757AEFD378516E0E2E4AE27BA0FA0F0",
+    "version":  "2.0.50",
+    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_2.0.50/Sismic-2.0.50.zip",
+    "sha256":  "4F049C90998AB2D0E0CC1EBDBECE2DFB210778CBBB3C341EC8D74FBADADD80C1",
     "obligatoria":  false,
     "notas":  "APROB EXCEL"
 }
