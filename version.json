@@ -1,7 +1,7 @@
 {
-    "version":  "2.0.55",
-    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_2.0.55/Sismic-2.0.55.zip",
-    "sha256":  "8DA6BD938216EC5ADD0DA64D3B8373863844BD4699FB3469996E0A10DD1DCDC9",
+    "version":  "2.0.56",
+    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_2.0.56/Sismic-2.0.56.zip",
+    "sha256":  "1354ED74DD4CA480F7638C761DF32C1B2EBED38D75FBA247900C2F899151347E",
     "obligatoria":  false,
     "notas":  "RECUPERADOSCLIENT"
 }
