@@ -1,7 +1,7 @@
 {
-    "version":  "2.0.93",
-    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_2.0.93/Sismic-2.0.93.zip",
-    "sha256":  "D87CED6279EEA2883819C83A98F3489C15ECA9080D46F426C904E27EAA195676",
+    "version":  "2.0.94",
+    "url":  "https://github.com/CompadrITTO/sismic-releases/releases/download/SISMIC_2.0.94/Sismic-2.0.94.zip",
+    "sha256":  "CE6033869601D456CDBD4FCF7FC7F12580C9971AA58158780766CD5FDD82FFCA",
     "obligatoria":  false,
     "notas":  "Registro de Corte"
 }
